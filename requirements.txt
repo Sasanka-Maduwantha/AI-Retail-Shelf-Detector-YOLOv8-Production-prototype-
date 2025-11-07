@@ -1,0 +1,8 @@
+# core
+ultralytics>=8.0.0
+numpy>=1.24.0
+opencv-python>=4.7.0
+
+# optional / useful
+pillow>=9.0.0
+tqdm           # nice progress bars for batch scripts
